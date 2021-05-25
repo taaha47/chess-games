@@ -1,0 +1,23 @@
+[Event "vs Computer"]
+[Site "Chess.com"]
+[Date "??.??.??"]
+[Round "?"]
+[White "tsorbi123"]
+[Black "Sven-BOT"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "504"]
+[BlackElo "1100"]
+[TimeControl "0"]
+[EndDate "2021.05.25"]
+[Termination "Game drawn by stalemate"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 f6 4. dxe6 Qd5 5. Nc3 Qh5 6. Bb5+ c6 7. Bc4 Be7 8.
+Ne4 Na6 9. d3 f5 10. O-O fxe4 11. dxe4 Qg4 12. Bg5 Bxe6 13. Bxe6 Qxe6 14. Bxe7
+Rc8 15. Bh4 Qc4 16. Nd2 Qe6 17. Qh5+ g6 18. Qa5 Nf6 19. Qc3 O-O 20. Qc4 Qxc4 21.
+Nxc4 h6 22. e5 Nh7 23. Be7 Rce8 24. Bxf8 b5 25. Bxh6 bxc4 26. Rfe1 g5 27. h3 Nb4
+28. e6 Nxc2 29. Bxg5 Nxe1 30. e7 Nc2 31. Rc1 Na3 32. f4 Nxg5 33. fxg5 Rxe7 34.
+Rf1 Nb5 35. g6 Nd6 36. h4 a5 37. h5 Ra7 38. h6 Ne8 39. h7+ Rxh7 40. gxh7+ Kg7
+41. Rf8 Kxf8 42. h8=Q+ Kf7 43. Qc3 Ke7 44. Qxa5 Nf6 45. Qc3 Nh7 46. Qxc4 Nf6 47.
+Qxc6 Ne8 48. b4 Kf7 49. b5 Ke7 50. b6 Nf6 51. b7 Nd7 52. a4 Nb8 53. Qc8 Kd6 54.
+Qxb8+ Kc6 55. a5 Kb5 56. Qe5+ Kc6 57. b8=Q Kd7 58. Qb6 Kc8 59. Qe7 1/2-1/2
