@@ -1,0 +1,23 @@
+[Event "vs Computer"]
+[Site "Chess.com"]
+[Date "??.??.??"]
+[Round "?"]
+[White "tsorbi123"]
+[Black "Sven-BOT"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "504"]
+[BlackElo "1100"]
+[TimeControl "0"]
+[EndDate "2021.06.01"]
+[Termination "tsorbi123 won by checkmate"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Bb4 4. e5 c5 5. Nf3 c4 6. Be2 Na6 7. a3 Bxc3+ 8. bxc3
+Bd7 9. Bg5 Qa5 10. Qd2 f6 11. Bf4 Ba4 12. O-O b6 13. Qe3 h6 14. exf6 Nxf6 15.
+Qxe6+ Kd8 16. Ne5 Rf8 17. Nf7+ Rxf7 18. Qxf7 Bd7 19. Qxg7 Ne8 20. Qxh6 Qb5 21.
+h4 Nac7 22. h5 Qa5 23. Qg5+ Kc8 24. Bg3 Na6 25. Bh4 Nb8 26. h6 Nc6 27. Qd2 Kb8
+28. h7 Nd6 29. h8=Q+ Be8 30. Qf4 Kc7 31. Qhh6 Kb8 32. Qhxd6+ Kb7 33. Qff8 Qxc3
+34. Rac1 Nxd4 35. Qfe7+ Ka6 36. Qb4 Qxb4 37. axb4 Nxe2+ 38. Qxe2 Rb8 39. g4 Kb5
+40. Rb1 Bc6 41. g5 Bd7 42. g6 Rb7 43. g7 Rb8 44. Qe7 Bg4 45. f3 Bh3 46. Kh2 Be6
+47. Qxe6 c3 48. Qg6 Rg8 49. Qh7 Rxg7 50. Qxg7 Kc6 51. Qxc3+ Kb7 52. Rfe1 a5 53.
+bxa5 b5 54. Re6 Ka7 55. Qc7+ Ka8 56. Re8# 1-0
