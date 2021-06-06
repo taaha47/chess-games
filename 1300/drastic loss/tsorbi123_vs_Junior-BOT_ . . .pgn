@@ -1,0 +1,22 @@
+[Event "vs Computer"]
+[Site "Chess.com"]
+[Date "??.??.??"]
+[Round "?"]
+[White "tsorbi123"]
+[Black "Junior-BOT"]
+[Result "0-1"]
+[ECO "C40"]
+[WhiteElo "504"]
+[BlackElo "1300"]
+[TimeControl "0"]
+[EndDate "2021.06.02"]
+[Termination "Junior-BOT won by checkmate"]
+
+1. e4 e5 2. Nf3 Qf6 3. Bc4 Qh6 4. d3 Qf6 5. Bg5 Qb6 6. Nxe5 Qa5+ 7. c3 Qxe5 8.
+d4 Qxg5 9. Nd2 b5 10. Bd5 c6 11. Bb3 Qxg2 12. Qh5 Qxh1+ 13. Ke2 Qxa1 14. Qxf7+
+Kd8 15. Qxf8+ Kc7 16. Qxg7 Kb6 17. Qxh8 Qg1 18. Bxg8 Na6 19. Qxh7 Bb7 20. Nf3
+Qxg8 21. Qxg8 Rxg8 22. h4 c5 23. d5 Re8 24. Ng5 Bxd5 25. f3 Bc4+ 26. Ke3 Rh8 27.
+b3 Bf1 28. b4 cxb4 29. cxb4 Nxb4 30. a3 Nc2+ 31. Kf2 Bc4 32. Nf7 Bxf7 33. f4 Kc5
+34. e5 Rxh4 35. f5 Rf4+ 36. Kg3 Rxf5 37. e6 Bxe6 38. Kg4 Rf7+ 39. Kg5 Rf3 40. a4
+Rf5+ 41. Kg4 Ne3+ 42. Kg3 bxa4 43. Kh4 a3 44. Kg3 a2 45. Kh4 a1=Q 46. Kg3 Qg7+
+47. Kh2 Qg2# 0-1
